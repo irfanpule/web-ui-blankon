@@ -1,0 +1,25 @@
+body{
+  padding-top: 50px;
+}
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+.footer{
+  width: 100%;
+  padding:10px;
+  min-height: 30px;
+}
+
+.footer ul li {
+  width:auto;
+  float: left;
+  padding: 5px;
+}
+.list-user .thumbnail{
+  max-width:100px;
+}
