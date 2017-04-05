@@ -2,6 +2,22 @@ body{
   padding: 50px 0 0 0;
   bottom: 0px;
 }
+body section{
+    padding:10% !important;
+    min-height: 700px;
+    width: 100%;
+    left: 0 !important;
+    right: 0 !important;
+}
+
+body section.first{
+    background:
+        url(../img/mosaic.png),
+        no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: -1%;
+    color: #fff;
+}
 .navbar-brand {
   padding: auto;
 }
